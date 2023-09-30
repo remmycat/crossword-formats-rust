@@ -1,3 +1,6 @@
 /target
 /Cargo.lock
 .DS_Store
+
+# For now, until we have safe files without copyright
+*.puz
